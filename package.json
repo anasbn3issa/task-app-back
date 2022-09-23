@@ -1,0 +1,24 @@
+{
+  "name": "task-app-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasbn3issa/task-app-back.git"
+  },
+  "keywords": [
+    "vuejs",
+    "hapi",
+    "todo-app"
+  ],
+  "author": "Anas BEN AISSA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasbn3issa/task-app-back/issues"
+  },
+  "homepage": "https://github.com/anasbn3issa/task-app-back#readme"
+}
